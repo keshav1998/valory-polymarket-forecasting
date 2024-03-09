@@ -37,7 +37,7 @@ SPP = (
     '    "yes": 0.5,\n'
     '    "no": 0.5\n'
     "  },\n"
-    '  "confidence": "ConfidenceValue",\n'
+    '  "confidence": "0.8",\n'
     '  "explanation": "Based on a comprehensive analysis of current polling data, historical election results, and demographic trends, alongside critical feedback from experts in political analysis, data science, and public opinion research, the probability of the Democrats winning more than 300 electoral votes in the 2024 Presidential Election is assessed. The confidence level in this forecast accounts for uncertainties in polling accuracy, voter turnout, and potential shifts in the political landscape."\n'
     "}\n"
     "```\n\n"
