@@ -1,6 +1,19 @@
 # valory-polymarket-forecasting
 Demonstrate proficiency in interacting with and fine-tuning Large Language Models (LLM).
 
+## TASKS:
+
+1. Prompt Engineering: Craft a series of prompts designed to test the model's capabilities in prediction tasks.
+Examples of questions on which to make a prediction can be found at this prediction
+market platform: https://polymarket.com/. The model should return a structured response
+(e.g. json) containing the probability of the yes/no response to the question and a measure of confidence between 0 and 1.
+
+2. Prompt Optimization: Develop different prompting approaches. This may include prompt chaining,
+reformulating questions, or using specific keywords.
+
+3. Fine-Tuning: Describe in detail (with references to scientific articles and technologies) how to fine-tune
+a pre-trained LLM for prediction tasks.
+
 ## Reference:
 1. https://arxiv.org/html/2402.18563v1#S4
 2. https://arxiv.org/pdf/2307.05300.pdf
