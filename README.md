@@ -14,6 +14,16 @@ reformulating questions, or using specific keywords.
 3. Fine-Tuning: Describe in detail (with references to scientific articles and technologies) how to fine-tune
 a pre-trained LLM for prediction tasks.
 
+
+## PROMPTING TECHNIQUES USED:
+1. Prompt Chaining
+2. Multipersona Prompting
+3. Reformulating Question
+
+## EXTRA MODULES REQUIRED:
+1. Information retreival pipeline to provide context to the model behind the questions.
+2. A Rag based approach where retreived information is temporarily indexed and a RAG pipeline is created around that for each specific question
+
 ## Reference:
 1. https://arxiv.org/html/2402.18563v1#S4
 2. https://arxiv.org/pdf/2307.05300.pdf
