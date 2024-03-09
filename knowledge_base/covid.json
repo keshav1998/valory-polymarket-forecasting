@@ -1,7 +1,7 @@
 {
     "question": "Will the USA report a 7-day COVID-19 case average of 200k or more before January 1, 2022?",
     "historical_case_data": {
-        "weekly_cases": [
+        "7_day_average": [
             {
                 "date": "November 13, 2021",
                 "cases": 524688
