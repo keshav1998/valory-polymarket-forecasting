@@ -6,4 +6,4 @@ class Questions:
     )
     QUESTION_4 = "Will the price of Bitcoin (BTC) be above $46,000 on April 14, 2022?"
     QUESTION_5 = "Will the USA report a 7-day COVID-19 case average of 200k or more before January 1, 2022?"
-    QUESTION_6 = "Formula 1: Who will finish ahead at the Saudi Arabia Grand Prix: Max Verstappen or Charles Leclerc?"
+    QUESTION_6 = "Formula 1: Who will finish ahead at the Saudi Arabia Grand Prix 2022: Max Verstappen or Charles Leclerc?"
