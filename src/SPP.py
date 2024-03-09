@@ -19,7 +19,7 @@ class SPPPrompting:
             "answer the query.\n"
             f"Query: {query_str}\n"
             "Answer: "
-            'The response should be in JSON format in the following format: {"answer":{{"yes": <probability of yes>, "no": <probabuility of no>}}, "confidence": ..., "explanation": ...}'
+            'The response should be in JSON format in the following format: {"answer":{{"yes": <probability of yes>, "no": <probabuility of no>}}, "confidence": <confidence level between 0 and 1>, "explanation": ...}'
         )
 
         prompt = SPP + question_prompt
